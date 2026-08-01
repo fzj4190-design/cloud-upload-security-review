@@ -1,0 +1,5 @@
+interface:
+  display_name: "云端上传安全审核"
+  short_description: "上传、发布或部署前执行密钥、隐私、权限与依赖安全门禁"
+  brand_color: "#B42318"
+  default_prompt: "Use $cloud-upload-security-review to audit these files and the intended cloud destination before any upload."
